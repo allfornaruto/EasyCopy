@@ -1,0 +1,11 @@
+{
+  "name": "easycopy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "copy": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
